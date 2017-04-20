@@ -1,6 +1,9 @@
 # lista-frutas
 Ejercicio lección 13 - frutas
 
+## Creé un repositorio llamado lista-frutas con un readme.md adentro
+## En el terminal cloné la carpeta a mi computador
+
 ### Creé un HTML con un input,button y un IMG
 #### Hice un commit para guardar lo avanzado
 ### Creé un CSS para darle estilo al archivo HTML
