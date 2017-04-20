@@ -1,16 +1,12 @@
 /* Debes pegar todo el código en main.css */
 * {
-  font-family: sans-serif;
-  font-weight: lighter;
+  font-family: futura;
 }
-body {
-  background-color: Cornsilk;
-  color: Grey;
-}
+
 button {
-  width: 250px;
-  height: 50px;
-  background-color: DarkSalmon ;
+  width: 100px;
+  height: 25px;
+  background-color: #d2d1cd;
   border: none; 
   font-size: 1em;
   color: white;
